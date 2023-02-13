@@ -1,1 +1,253 @@
+SEMANA 01 (13-19/02/2023):
 
+HORA |	LUNES	|	MARTES	|	MIERCOLES		|	JUEVES	|	VIERNES	|	SABADO	|	DOMINGO	|
+---------------------------------------------------------------------------------------------------------------
+5:30-|levantarce,	|levantarce,	|levantarce,		|levantarce,	|levantarce,	|dormir		|	LIBRE	|
+6:10 |vestirce		|vestirce		|vestirce			|vestirce		|vestirce		|			|			|
+---------------------------------------------------------------------------------------------------------------
+6:10-|repaso de	|repaso de	|repaso de		|repaso de	|repaso de	|levantarce,	|	LIBRE	|
+7:10 |MECANICA		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|vestirce		|			|
+---------------------------------------------------------------------------------------------------------------
+7:10-|			|desayuno,	|desayuno,		|desayuno,	|desayuno,	|			|	LIBRE	|
+8:00 |			|ir a clase	|ir a clase		|ir a clase	|ir a clase	|			|			|
+-----|     GYM     | -------------------------------------------------------------|      GYM    |--------------
+8:00-|			|CLASE		|	CLASE DE		|CLASE DE 	|CLASE DE 	|			|	LIBRE	|
+9:00 |	 		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
+-------------------|			|				|	          |             |---------------------------- 
+9:00-|VESTIRCE,IR A	|			|				|			|			|LAVAR ROPA,	|	LIBRE	|
+10:00|LA U,DESAYUNO	|			|				|			|			|DESAYUNO		|			|
+---------------------------------------------------------------------------------------------------------------
+10:00|			|			|				|			|			|			|	LIBRE	|
+11:00|			|			|				|			|			|	TALLER	|			|
+-----|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|----------------
+11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE	|
+12:00|			|			|	MECANICA		|			|			|			|			|
+-----|			|-------------|				|-----------------------------------------------------------
+12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|	LIBRE	|
+13:00|			|	LIBRE	|				|	LIBRE	|	LIBRE	|			|			|
+----------------------------------------------------------------------------------|	LIBRE	|--------------
+13:00|	HORA		|repaso de	|	HORA			|repaso de	|repaso de	|			|	LIBRE	|
+14:00|	LIBRE	|	ALGEBRA	|		LIBRE	|	ALGEBRA	|	MECANICA	|			|			|
+---------------------------------------------------------------------------------------------------------------
+14:00|			|			|				|			|			|			|	LIBRE	|
+15:00|			|			|				|			|			|			|			|
+-----|			|	CLASE DE	|	CLASE DE		|	CLASE DE	|	CLASE DE	|			|---------------
+15:00|			|	ALGEBRA	|	DISCRETAS		|	ALGEBRA	|	DISCRETAS	|			|	LIBRE	|
+16:00|	REPASO DE	|			|				|			|			|			|			|
+-----|PROBABILIDAD	|--------------------------------------------------------------|			|---------------
+16:00|			|			|				|			|			|	REPASO DE	|	LIBRE	|
+17:00|			|			|				|	REPASO DE	|			|	CUALQUIER	|			|
+-------------------|	REPASO DE	|	CLASE DE		|	INFO.II	|	CLASE DE	|	MATERIA	|---------------
+17:00|			|PROBABILIDAD	|	MECANICA		|			|	mecanica	|			|	LIBRE	|
+18:00|			|			|				|			|			|			|			|
+-----|			|--------------------------------------------------------------|			|
+18:00|			|			|	hora			|			|			|			|dormir		|
+19:00|			|			|	LIBRE		|			|			|			|
+-----|	REPASO DE	|			|------------------|			|			|-----------------------------
+19:00|	INFO.II	|repaso de	|				|LABORATORIO	|			|			|	LIBRE	|
+20:00|			|	ALGEBRA	|				|DE INFO.II	|			|			|			|
+-----|			|			|		CULTO	|			|			|			|----------------
+20:00|			|			|				|			|			|			|	LIBRE	|
+21:00|			|			|				|			|MERO RELAJO	|			|			|
+-------------------------------------------------------------------|			|			|---------------
+21:00|	PA' LA	|	PA' LA	|	PA' LA		|	PA' LA	|			|			|	LIBRE	|
+22:00|	CASA		|	CASA		|	CASA			|	CASA		|			|			|			|
+-------------------------------------------------------------------|			|			|---------------
+22:00|			|			|				|			|			|			|			|
+23:00|			|			|				|			|			|			|			|
+-----|   DORMIR	|    DORMIR	|    DORMIR		|    DORMIR	|------------- |	PARCHE	|    DORMIR	|
+23:00|			|			|				|			|	PA' LA	|	LIBRE	|			|
+00:00|			|			|				|			|CASA, DORMIR	|			|			|
+
+
+SEMANA 02 (20-26/02/2023):
+
+HORA |	LUNES	|	MARTES	|	MIERCOLES		|	JUEVES	|	VIERNES	|	SABADO	|	DOMINGO	|
+---------------------------------------------------------------------------------------------------------------
+5:30-|levantarce,	|levantarce,	|levantarce,		|levantarce,	|levantarce,	|dormir		|	LIBRE	|
+6:10 |vestirce		|vestirce		|vestirce			|vestirce		|vestirce		|			|			|
+---------------------------------------------------------------------------------------------------------------
+6:10-|repaso de	|repaso de	|repaso de		|repaso de	|repaso de	|levantarce,	|	LIBRE	|
+7:10 |MECANICA		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|vestirce		|			|
+---------------------------------------------------------------------------------------------------------------
+7:10-|			|desayuno,	|desayuno,		|desayuno,	|desayuno,	|			|	LIBRE	|
+8:00 |			|ir a clase	|ir a clase		|ir a clase	|ir a clase	|			|			|
+-----|     GYM     | -------------------------------------------------------------|      GYM    |--------------
+8:00-|			|CLASE		|	CLASE DE		|CLASE DE 	|CLASE DE 	|			|	LIBRE	|
+9:00 |	 		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
+-------------------|			|				|	          |             |---------------------------- 
+9:00-|VESTIRCE,IR A	|			|				|			|			|LAVAR ROPA,	|	LIBRE	|
+10:00|LA U,DESAYUNO	|			|				|			|			|DESAYUNO		|			|
+---------------------------------------------------------------------------------------------------------------
+10:00|			|			|				|			|			|			|	LIBRE	|
+11:00|			|			|				|			|			|	TALLER	|			|
+-----|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|----------------
+11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE	|
+12:00|			|			|	MECANICA		|			|			|			|			|
+-----|			|-------------|				|-----------------------------------------------------------
+12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|	LIBRE	|
+13:00|			|	LIBRE	|				|	LIBRE	|	LIBRE	|			|			|
+----------------------------------------------------------------------------------|	LIBRE	|--------------
+13:00|	HORA		|repaso de	|	HORA			|repaso de	|repaso de	|			|	LIBRE	|
+14:00|	LIBRE	|	ALGEBRA	|		LIBRE	|	ALGEBRA	|	MECANICA	|			|			|
+---------------------------------------------------------------------------------------------------------------
+14:00|			|			|				|			|			|			|	LIBRE	|
+15:00|			|			|				|			|			|			|			|
+-----|			|	CLASE DE	|	CLASE DE		|	CLASE DE	|	CLASE DE	|			|---------------
+15:00|			|	ALGEBRA	|	DISCRETAS		|	ALGEBRA	|	DISCRETAS	|			|	LIBRE	|
+16:00|	REPASO DE	|			|				|			|			|			|			|
+-----|PROBABILIDAD	|--------------------------------------------------------------|			|---------------
+16:00|			|			|				|			|			|	REPASO DE	|	LIBRE	|
+17:00|			|			|				|	REPASO DE	|			|	CUALQUIER	|			|
+-------------------|	REPASO DE	|	CLASE DE		|	INFO.II	|	CLASE DE	|	MATERIA	|---------------
+17:00|			|PROBABILIDAD	|	MECANICA		|			|	mecanica	|			|	LIBRE	|
+18:00|			|			|				|			|			|			|			|
+-----|			|--------------------------------------------------------------|			|
+18:00|			|			|	hora			|			|			|			|dormir		|
+19:00|			|			|	LIBRE		|			|			|			|
+-----|	REPASO DE	|			|------------------|			|			|-----------------------------
+19:00|	INFO.II	|repaso de	|				|LABORATORIO	|			|			|	LIBRE	|
+20:00|			|	ALGEBRA	|				|DE INFO.II	|			|			|			|
+-----|			|			|		CULTO	|			|			|			|----------------
+20:00|			|			|				|			|			|			|	LIBRE	|
+21:00|			|			|				|			|MERO RELAJO	|			|			|
+-------------------------------------------------------------------|			|			|---------------
+21:00|	PA' LA	|	PA' LA	|	PA' LA		|	PA' LA	|			|			|	LIBRE	|
+22:00|	CASA		|	CASA		|	CASA			|	CASA		|			|			|			|
+-------------------------------------------------------------------|			|			|---------------
+22:00|			|			|				|			|			|			|			|
+23:00|			|			|				|			|			|			|			|
+-----|   DORMIR	|    DORMIR	|    DORMIR		|    DORMIR	|------------- |	PARCHE	|    DORMIR	|
+23:00|			|			|				|			|	PA' LA	|	LIBRE	|			|
+00:00|			|			|				|			|CASA, DORMIR	|			|			|
+
+
+
+
+
+SEMANA 03 ([27/02]-[05/03]/2023):
+
+HORA |	LUNES	|	MARTES	|	MIERCOLES		|	JUEVES	|	VIERNES	|	SABADO	|	DOMINGO	|
+---------------------------------------------------------------------------------------------------------------
+5:30-|levantarce,	|levantarce,	|levantarce,		|levantarce,	|levantarce,	|dormir		|	LIBRE	|
+6:10 |vestirce		|vestirce		|vestirce			|vestirce		|vestirce		|			|			|
+---------------------------------------------------------------------------------------------------------------
+6:10-|repaso de	|repaso de	|repaso de		|repaso de	|repaso de	|levantarce,	|	LIBRE	|
+7:10 |MECANICA		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|vestirce		|			|
+---------------------------------------------------------------------------------------------------------------
+7:10-|			|desayuno,	|desayuno,		|desayuno,	|desayuno,	|			|	LIBRE	|
+8:00 |			|ir a clase	|ir a clase		|ir a clase	|ir a clase	|			|			|
+-----|     GYM     | -------------------------------------------------------------|      GYM    |--------------
+8:00-|			|CLASE		|	CLASE DE		|CLASE DE 	|CLASE DE 	|			|	LIBRE	|
+9:00 |	 		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
+-------------------|			|				|	          |             |---------------------------- 
+9:00-|VESTIRCE,IR A	|			|				|			|			|LAVAR ROPA,	|	LIBRE	|
+10:00|LA U,DESAYUNO	|			|				|			|			|DESAYUNO		|			|
+---------------------------------------------------------------------------------------------------------------
+10:00|			|			|				|			|			|			|	LIBRE	|
+11:00|			|			|				|			|			|	TALLER	|			|
+-----|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|----------------
+11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE	|
+12:00|			|			|	MECANICA		|			|			|			|			|
+-----|			|-------------|				|-----------------------------------------------------------
+12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|	LIBRE	|
+13:00|			|	LIBRE	|				|	LIBRE	|	LIBRE	|			|			|
+----------------------------------------------------------------------------------|	LIBRE	|--------------
+13:00|	HORA		|repaso de	|	HORA			|repaso de	|repaso de	|			|	LIBRE	|
+14:00|	LIBRE	|	ALGEBRA	|		LIBRE	|	ALGEBRA	|	MECANICA	|			|			|
+---------------------------------------------------------------------------------------------------------------
+14:00|			|			|				|			|			|			|	LIBRE	|
+15:00|			|			|				|			|			|			|			|
+-----|			|	CLASE DE	|	CLASE DE		|	CLASE DE	|	CLASE DE	|			|---------------
+15:00|			|	ALGEBRA	|	DISCRETAS		|	ALGEBRA	|	DISCRETAS	|			|	LIBRE	|
+16:00|	REPASO DE	|			|				|			|			|			|			|
+-----|PROBABILIDAD	|--------------------------------------------------------------|			|---------------
+16:00|			|			|				|			|			|	REPASO DE	|	LIBRE	|
+17:00|			|			|				|	REPASO DE	|			|	CUALQUIER	|			|
+-------------------|	REPASO DE	|	CLASE DE		|	INFO.II	|	CLASE DE	|	MATERIA	|---------------
+17:00|			|PROBABILIDAD	|	MECANICA		|			|	mecanica	|			|	LIBRE	|
+18:00|			|			|				|			|			|			|			|
+-----|			|--------------------------------------------------------------|			|
+18:00|			|			|	hora			|			|			|			|dormir		|
+19:00|			|			|	LIBRE		|			|			|			|
+-----|	REPASO DE	|			|------------------|			|			|-----------------------------
+19:00|	INFO.II	|repaso de	|				|LABORATORIO	|			|			|	LIBRE	|
+20:00|			|	ALGEBRA	|				|DE INFO.II	|			|			|			|
+-----|			|			|		CULTO	|			|			|			|----------------
+20:00|			|			|				|			|			|			|	LIBRE	|
+21:00|			|			|				|			|MERO RELAJO	|			|			|
+-------------------------------------------------------------------|			|			|---------------
+21:00|	PA' LA	|	PA' LA	|	PA' LA		|	PA' LA	|			|			|	LIBRE	|
+22:00|	CASA		|	CASA		|	CASA			|	CASA		|			|			|			|
+-------------------------------------------------------------------|			|			|---------------
+22:00|			|			|				|			|			|			|			|
+23:00|			|			|				|			|			|			|			|
+-----|   DORMIR	|    DORMIR	|    DORMIR		|    DORMIR	|------------- |	PARCHE	|    DORMIR	|
+23:00|			|			|				|			|	PA' LA	|	LIBRE	|			|
+00:00|			|			|				|			|CASA, DORMIR	|			|			|
+
+
+
+
+SEMANA 04 (06-12/03/2023):
+
+HORA |	LUNES	|	MARTES	|	MIERCOLES		|	JUEVES	|	VIERNES	|	SABADO	|	DOMINGO	|
+---------------------------------------------------------------------------------------------------------------
+5:30-|levantarce,	|levantarce,	|levantarce,		|levantarce,	|levantarce,	|dormir		|	LIBRE	|
+6:10 |vestirce		|vestirce		|vestirce			|vestirce		|vestirce		|			|			|
+---------------------------------------------------------------------------------------------------------------
+6:10-|repaso de	|repaso de	|repaso de		|repaso de	|repaso de	|levantarce,	|	LIBRE	|
+7:10 |MECANICA		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|vestirce		|			|
+---------------------------------------------------------------------------------------------------------------
+7:10-|			|desayuno,	|desayuno,		|desayuno,	|desayuno,	|			|	LIBRE	|
+8:00 |			|ir a clase	|ir a clase		|ir a clase	|ir a clase	|			|			|
+-----|     GYM     | -------------------------------------------------------------|      GYM    |--------------
+8:00-|			|CLASE		|	CLASE DE		|CLASE DE 	|CLASE DE 	|			|	LIBRE	|
+9:00 |	 		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
+-------------------|			|				|	          |             |---------------------------- 
+9:00-|VESTIRCE,IR A	|			|				|			|			|LAVAR ROPA,	|	LIBRE	|
+10:00|LA U,DESAYUNO	|			|				|			|			|DESAYUNO		|			|
+---------------------------------------------------------------------------------------------------------------
+10:00|			|			|				|			|			|			|	LIBRE	|
+11:00|			|			|				|			|			|	TALLER	|			|
+-----|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|----------------
+11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE	|
+12:00|			|			|	MECANICA		|			|			|			|			|
+-----|			|-------------|				|-----------------------------------------------------------
+12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|	LIBRE	|
+13:00|			|	LIBRE	|				|	LIBRE	|	LIBRE	|			|			|
+----------------------------------------------------------------------------------|	LIBRE	|--------------
+13:00|	HORA		|repaso de	|	HORA			|repaso de	|repaso de	|			|	LIBRE	|
+14:00|	LIBRE	|	ALGEBRA	|		LIBRE	|	ALGEBRA	|	MECANICA	|			|			|
+---------------------------------------------------------------------------------------------------------------
+14:00|			|			|				|			|			|			|	LIBRE	|
+15:00|			|			|				|			|			|			|			|
+-----|			|	CLASE DE	|	CLASE DE		|	CLASE DE	|	CLASE DE	|			|---------------
+15:00|			|	ALGEBRA	|	DISCRETAS		|	ALGEBRA	|	DISCRETAS	|			|	LIBRE	|
+16:00|	REPASO DE	|			|				|			|			|			|			|
+-----|PROBABILIDAD	|--------------------------------------------------------------|			|---------------
+16:00|			|			|				|			|			|	REPASO DE	|	LIBRE	|
+17:00|			|			|				|	REPASO DE	|			|	CUALQUIER	|			|
+-------------------|	REPASO DE	|	CLASE DE		|	INFO.II	|	CLASE DE	|	MATERIA	|---------------
+17:00|			|PROBABILIDAD	|	MECANICA		|			|	mecanica	|			|	LIBRE	|
+18:00|			|			|				|			|			|			|			|
+-----|			|--------------------------------------------------------------|			|
+18:00|			|			|	hora			|			|			|			|dormir		|
+19:00|			|			|	LIBRE		|			|			|			|
+-----|	REPASO DE	|			|------------------|			|			|-----------------------------
+19:00|	INFO.II	|repaso de	|				|LABORATORIO	|			|			|	LIBRE	|
+20:00|			|	ALGEBRA	|				|DE INFO.II	|			|			|			|
+-----|			|			|		CULTO	|			|			|			|----------------
+20:00|			|			|				|			|			|			|	LIBRE	|
+21:00|			|			|				|			|MERO RELAJO	|			|			|
+-------------------------------------------------------------------|			|			|---------------
+21:00|	PA' LA	|	PA' LA	|	PA' LA		|	PA' LA	|			|			|	LIBRE	|
+22:00|	CASA		|	CASA		|	CASA			|	CASA		|			|			|			|
+-------------------------------------------------------------------|			|			|---------------
+22:00|			|			|				|			|			|			|			|
+23:00|			|			|				|			|			|			|			|
+-----|   DORMIR	|    DORMIR	|    DORMIR		|    DORMIR	|------------- |	PARCHE	|    DORMIR	|
+23:00|			|			|				|			|	PA' LA	|	LIBRE	|			|
+00:00|			|			|				|			|CASA, DORMIR	|			|			|
+
+ 
