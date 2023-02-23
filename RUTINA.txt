@@ -5,16 +5,16 @@ HORA |	  LUNES	   |	 MARTES	   |	 MIERCOLES		|	  JUEVES	  |	  VIERNES	 |	 SABADO
 5:30-|levantarce,	|levantarce,	|levantarce,		|levantarce,	|levantarce,	|   dormir		|	 LIBRE	 |
 6:10 |vestirce		  |vestirce		  |vestirce			  |vestirce		  |vestirce		  |			        |			      |
 -----------------------------------------------------------------------------------------------
-6:10-|repaso de	|repaso de	|repaso de		      |repaso de	| repaso de    |levantarce,|	 LIBRE	 |
-7:10 |MECANICA		|INFO.II		 |PROBABILIDAD		   |INFO.II		 | PROBABILIDAD	| vestirce		|			      |
+6:10-|repaso de	 |repaso de	   |repaso de		  |repaso de	 | repaso de    |levantarce,|	 LIBRE	 |
+7:10 |MECANICA		 |INFO.II		    |PROBABILIDAD	|INFO.II		  | PROBABILIDAD	| vestirce		|			      |
 ---------------------------------------------------------------------------------------------------------------
-7:10-|			|desayuno,	|desayuno,		|desayuno,	|desayuno,	|			|	LIBRE	|
-8:00 |			|ir a clase	|ir a clase		|ir a clase	|ir a clase	|			|			|
------|     GYM     | -------------------------------------------------------------|      GYM    |--------------
-8:00-|			|CLASE		|	CLASE DE		|CLASE DE 	|CLASE DE 	|			|	LIBRE	|
-9:00 |	 		|INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
--------------------|			|				|	          |             |---------------------------- 
-9:00-|VESTIRCE,IR A	|			|				|			|			|LAVAR ROPA,	|	LIBRE	|
+7:10-|			           |desayuno,	|desayuno,		  |desayuno,	 |desayuno,	    |			        |  	LIBRE	|
+8:00 |			           |ir a clase|ir a clase		 |ir a clase	|ir a clase	   |			        |		  	    |
+-----|     GYM      | ------------------------------------------------- |    GYM    |--------------
+8:00-|			           |CLASE		   |	CLASE DE		  |CLASE DE 	|CLASE DE 	     |			        |	LIBRE	|
+9:00 |	 		          |INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
+------------------- |			     |				|	          |             |---------------------------- 
+9:00-|VESTIRCE,IR A	|			         |				|			|			|LAVAR ROPA,	|	LIBRE	|
 10:00|LA U,DESAYUNO	|			|				|			|			|DESAYUNO		|			|
 ---------------------------------------------------------------------------------------------------------------
 10:00|			|			|				|			|			|			|	LIBRE	|
