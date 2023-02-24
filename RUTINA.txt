@@ -24,6 +24,11 @@ HORA |	LUNES	|	MARTES	|	MIERCOLES		|	JUEVES	|	VIERNES	|	SABADO	|	DOMINGO	|
 12:00|			|			|	MECANICA		|			|			|			|			|
 -----|			|-------------|				|-----------------------------------------	|			|
 12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|			|
+-----|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|-------------	|
+11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE	|
+12:00|			|			|	MECANICA		|			|			|			|			|
+-----|			|-------------|				|--------------------------------------------------------	|
+12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|	LIBRE	|
 13:00|			|	LIBRE	|				|	LIBRE	|	LIBRE	|			|			|
 ---------------------------------------------------------------------------------	|	LIBRE	|			|
 13:00|	HORA		|repaso de	|	HORA			|repaso de	|repaso de	|			|			|
