@@ -1,27 +1,27 @@
 SEMANA 01 (13-19/02/2023):
 
-HORA |	  LUNES	   |	 MARTES	   |	        MIERCOLES	|	  JUEVES	  |	  VIERNES	 |	 SABADO	  |	DOMINGO	 |
--------------------------------------------------------------------------------------------------------------------------------------------------
+HORA |	  LUNES	   |	 MARTES	   |	        MIERCOLES	|	  JUEVES	|	  VIERNES	 |	 SABADO	  |	DOMINGO	 |
+----------------------------------------------------------------------------------------+--------------------------------------------------------
 5:30-|levantarce,  |levantarce,	   |levantarce,		        |levantarce,	        |levantarce,	         |   dormir       |	 LIBRE	 |
 6:10 |vestirce     |vestirce	   |vestirce	                |vestirce               |vestirce	         |	          |	         |
+----------------------------------------------------------------------------------------+--------------------------------------------------------
+6:10-|repaso de	   |repaso de	   |repaso de		        |repaso de	        | repaso de              |levantarce,     |	 LIBRE	 |
+7:10 |MECANICA	   |INFO.II	   |PROBABILIDAD	        |INFO.II                | PROBABILIDAD           | vestirce       |	         |
 -------------------------------------------------------------------------------------------------------------------------------------------------
-6:10-|repaso de	 |repaso de	   |repaso de		  |repaso de	 | repaso de    |levantarce,|	 LIBRE	 |
-7:10 |MECANICA		 |INFO.II		    |PROBABILIDAD	|INFO.II		  | PROBABILIDAD	| vestirce		|			      |
----------------------------------------------------------------------------------------------------------------
-7:10-|			           |desayuno,	|desayuno,		  |desayuno,	 |desayuno,	    |			        |  	LIBRE	|
-8:00 |			           |ir a clase|ir a clase		 |ir a clase	|ir a clase	   |			        |		  	    |
------|     GYM      | ------------------------------------------------- |    GYM    |--------------
-8:00-|			           |CLASE		   |	CLASE DE		  |CLASE DE 	|CLASE DE 	     |			        |	LIBRE	|
-9:00 |	 		          |INFO.II		|PROBABILIDAD		|INFO.II		|PROBABILIDAD	|			|			|
-------------------- |			     |				|	          |             |---------------------------- 
-9:00-|VESTIRCE,IR A	|			         |				|			|			|LAVAR ROPA,	|	LIBRE	|
-10:00|LA U,DESAYUNO	|			|				|			|			|DESAYUNO		|			|
----------------------------------------------------------------------------------------------------------------
-10:00|			|			|				|			|			|			|	LIBRE	|
-11:00|			|			|				|			|			|	TALLER	|			|
------|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|----------------
-11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE	|
-12:00|			|			|	MECANICA		|			|			|			|			|
+7:10-|	           |desayuno,	   |desayuno,		        |desayuno,	        |desayuno,	         |	          |  	LIBRE	 |
+8:00 |	           |ir a clase     |ir a clase		        |ir a clase	        |ir a clase	         |	          |	         |
+-----|     GYM     | ------------------------------------------------------------------------------------------- |      GYM       |--------------
+8:00-|		   |CLASE          |	CLASE DE	        |CLASE DE 	        |CLASE DE 	         |		  |	LIBRE	 |
+9:00 |	           |INFO.II	   |PROBABILIDAD		|INFO.II		|PROBABILIDAD	         |	          |		 |
+-------------------|	           |				|	                |                        |-------------------------------- 
+9:00-|VESTIRCE,IR A|	           |				|			|	                 |LAVAR ROPA,	  |	LIBRE	 |
+10:00|LA U,DESAYUNO|		   |				|			|			 |DESAYUNO	  |		 |
+-------------------------------------------------------------------------------------------------------------------------------------------------
+10:00|			|			|				|			|			|			|	LIBRE|
+11:00|			|			|				|			|			|	TALLER	|		|
+-----|	REPASO DE	|	GYM		|				|	GYM		|	GYM		|	MECANICA	|--------------
+11:00|	MECANICA	|			|	repaso de		|			|			|			|	LIBRE|
+12:00|			|			|	MECANICA		|			|			|			|	|
 -----|			|-------------|				|-----------------------------------------------------------
 12:00|			|	HORA 	|				|	HORA 	|	HORA 	|			|	LIBRE	|
 13:00|			|	LIBRE	|				|	LIBRE	|	LIBRE	|			|			|
